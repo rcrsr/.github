@@ -7,10 +7,6 @@ Open Source projects by [Andre Bremer](https://github.com/AndreBremer).
   - [snoop](https://github.com/rcrsr/snoop) — Transcript capture with built-in anti-pattern detection
   - [policies](https://github.com/rcrsr/claude-plugins/tree/main/policies) — Auto-injects policy sections into subagents via § notation
 
-## Experimental
-
-- [repmat](https://github.com/rcrsr/repmat) — Blueprint-based workflow construction kit for policy-governed agents
-
 ## Infrastructure
 
 - [claude-code-runner](https://github.com/rcrsr/claude-code-runner) — Deterministic, scripted, unattended Claude Code execution
