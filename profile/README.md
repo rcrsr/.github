@@ -5,6 +5,7 @@ Open Source projects by [Andre Bremer](https://github.com/AndreBremer).
 - [rill](https://github.com/rcrsr/rill) - Embeddable workflow language for LLM orchestration
 - [claude-code-runner](https://github.com/rcrsr/claude-code-runner) — Deterministic, scripted, unattended Claude Code execution
 - [mcp-policy-server](https://github.com/rcrsr/mcp-policy-server) — MCP server for § notation policy fetching with O(1) section lookups
+- [fastapi-mcp-router](https://github.com/rcrsr/fastapi-mcp-router) — Expose MCP tools from your FastAPI app without adopting a separate framework.
 
 ## Claude Code Plugins
 
