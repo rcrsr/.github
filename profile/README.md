@@ -4,7 +4,7 @@ Open Source projects by [Andre Bremer](https://github.com/AndreBremer).
 
 - [rill](https://github.com/rcrsr/rill) - Embeddable workflow language for LLM orchestration
   - [rill-make](https://github.com/rcrsr/rill-make) - Claude Code skill to build rill packages with a single prompt
-  - [rill-cli](https://github.com/rcrsr/rill-cli) - CLI tools to boostrap, run, and debug rill scripts
+  - [rill-cli](https://github.com/rcrsr/rill-cli) - CLI tools to bootstrap, run, and debug rill scripts
   - [rill-ext](https://github.com/rcrsr/rill-ext) - Vendor extensions for the rill language
   - [rill-agent](https://github.com/rcrsr/rill-agent) - Agent development framework for the rill language
 - [claude-code-runner](https://github.com/rcrsr/claude-code-runner) — Deterministic, scripted, unattended Claude Code execution
