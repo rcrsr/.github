@@ -9,7 +9,8 @@ Open Source projects by [Andre Bremer](https://github.com/AndreBremer).
   - [rill-agent](https://github.com/rcrsr/rill-agent) - Agent development framework for the rill language
 - [claude-code-runner](https://github.com/rcrsr/claude-code-runner) — Deterministic, scripted, unattended Claude Code execution
 - [mcp-policy-server](https://github.com/rcrsr/mcp-policy-server) — MCP server for § notation policy fetching with O(1) section lookups
-- [fastapi-mcp-router](https://github.com/rcrsr/fastapi-mcp-router) — Expose MCP tools from your FastAPI app without adopting a separate framework.
+- [fastapi-mcp-router](https://github.com/rcrsr/fastapi-mcp-router) — Expose MCP tools from your FastAPI app without adopting a separate framework
+- [rcrsr-codanna](https://github.com/rcrsr/rcrsr-codanna) — Fork of [bartolli/codanna](https://github.com/bartolli/codanna) with added capabilities and fixes
 
 ## Claude Code Plugins
 
